@@ -41,4 +41,4 @@ public class MainActivity extends AppCompatActivity {
 ```
 结果截图
 ---
-    ![image](https://github.com/YongxuanWu/SimpleAdapter/blob/master/image/IMG_20190401_163329.jpg)
+![image](https://github.com/YongxuanWu/SimpleAdapter/blob/master/image/IMG_20190401_163329.jpg)
